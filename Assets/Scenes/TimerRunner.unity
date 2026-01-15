@@ -1827,7 +1827,7 @@ AudioSource:
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: 1c3096534a25cb94e8c56419c1249510, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.534
+  m_Volume: 0.101
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -6167,7 +6167,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.16, y: 0.16}
-    newSize: {x: 7.0626445, y: 29.239496}
+    newSize: {x: 7.0626445, y: 29.117844}
     adaptiveTilingThreshold: 0.5
     drawMode: 2
     adaptiveTiling: 0
@@ -6226,7 +6226,7 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 2
-  m_Size: {x: 7.0626445, y: 29.239496}
+  m_Size: {x: 7.0626445, y: 29.117844}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -6241,7 +6241,7 @@ Transform:
   m_GameObject: {fileID: 1336615792}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 187.14827, y: 56.927452, z: 0}
+  m_LocalPosition: {x: 187.14827, y: 56.5625, z: 0}
   m_LocalScale: {x: 6, y: 6, z: 6}
   m_ConstrainProportionsScale: 0
   m_Children: []
